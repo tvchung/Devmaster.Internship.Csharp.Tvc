@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Devmaster.Internship.Csharp.Tvc/1.0.0": {
+        "runtime": {
+          "Devmaster.Internship.Csharp.Tvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Devmaster.Internship.Csharp.Tvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

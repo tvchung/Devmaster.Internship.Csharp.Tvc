@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\devmaster.edu.vn\\DEV2608BE-NETCORE\\Devmaster.Internship.Csharp.Tvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF3AA7D4-DE31-4A89-A8AB-A8B7E1B7FA5B}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|d:\\devmaster.edu.vn\\dev2608be-netcore\\devmaster.internship.csharp.tvc\\ex01.ordercalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3AA7D4-DE31-4A89-A8AB-A8B7E1B7FA5B}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|solutionrelative:ex01.ordercalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA13EEA9-6EED-4559-840D-518B87411166}|Devmaster.Internship.Csharp.Tvc\\Devmaster.Internship.Csharp.Tvc.csproj|d:\\devmaster.edu.vn\\dev2608be-netcore\\devmaster.internship.csharp.tvc\\devmaster.internship.csharp.tvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA13EEA9-6EED-4559-840D-518B87411166}|Devmaster.Internship.Csharp.Tvc\\Devmaster.Internship.Csharp.Tvc.csproj|solutionrelative:devmaster.internship.csharp.tvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2F42D2D-D73A-49FB-9823-45A1F6365E24}|Devmaster.Internship.Csharp.Tvc\\Devmaster.Internship.Csharp.Tvc.csproj|d:\\devmaster.edu.vn\\dev2608be-netcore\\devmaster.internship.csharp.tvc\\devmaster.internship.csharp.tvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F42D2D-D73A-49FB-9823-45A1F6365E24}|Devmaster.Internship.Csharp.Tvc\\Devmaster.Internship.Csharp.Tvc.csproj|solutionrelative:devmaster.internship.csharp.tvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\devmaster.edu.vn\\DEV2608BE-NETCORE\\Devmaster.Internship.Csharp.Tvc\\Ex01.OrderCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "Ex01.OrderCalculator\\Program.cs",
-              "ToolTip": "D:\\devmaster.edu.vn\\DEV2608BE-NETCORE\\Devmaster.Internship.Csharp.Tvc\\Ex01.OrderCalculator\\Program.cs",
-              "RelativeToolTip": "Ex01.OrderCalculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T13:02:42.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "D:\\devmaster.edu.vn\\DEV2608BE-NETCORE\\Devmaster.Internship.Csharp.Tvc\\Devmaster.Internship.Csharp.Tvc\\Program.cs",
               "RelativeDocumentMoniker": "Devmaster.Internship.Csharp.Tvc\\Program.cs",
               "ToolTip": "D:\\devmaster.edu.vn\\DEV2608BE-NETCORE\\Devmaster.Internship.Csharp.Tvc\\Devmaster.Internship.Csharp.Tvc\\Program.cs",
               "RelativeToolTip": "Devmaster.Internship.Csharp.Tvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T13:00:35.53Z",
+              "WhenOpened": "2026-08-11T13:07:09.594Z",
               "EditorCaption": ""
             }
           ]

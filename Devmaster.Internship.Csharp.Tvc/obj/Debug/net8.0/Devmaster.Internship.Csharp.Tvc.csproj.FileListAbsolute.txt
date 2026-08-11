@@ -1,0 +1,15 @@
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\bin\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.exe
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\bin\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.deps.json
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\bin\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.runtimeconfig.json
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\bin\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.dll
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\bin\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.pdb
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.AssemblyInfoInputs.cache
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.AssemblyInfo.cs
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.csproj.CoreCompileInputs.cache
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.sourcelink.json
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.dll
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\refint\Devmaster.Internship.Csharp.Tvc.dll
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.pdb
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\Devmaster.Internship.Csharp.Tvc.genruntimeconfig.cache
+D:\devmaster.edu.vn\DEV2608BE-NETCORE\Devmaster.Internship.Csharp.Tvc\Devmaster.Internship.Csharp.Tvc\obj\Debug\net8.0\ref\Devmaster.Internship.Csharp.Tvc.dll
