@@ -1,30 +1,16 @@
-# Visual Studio
+## Visual Studio / IDE
 .vs/
 .vscode/
-
-# Build results
-[Bb]in/
-[Oo]bj/
-
-# User-specific files
-*.user
 *.suo
-*.userosscache
-*.sln.docstates
+*.user
 
-# Visual Studio cache
-*.ncb
-*.sdf
-*.opensdf
+## Build outputs (Biên dịch)
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
 
-# NuGet
-packages/
-*.nupkg
-*.snupkg
-
-# Test results
-TestResults/
-
-# OS files
-.DS_Store
-Thumbs.db
+## Files chứa thông tin nhạy cảm
+appsettings*.Secret.json
+*.env
+*.pem
